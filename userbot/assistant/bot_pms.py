@@ -105,15 +105,15 @@ async def bot_start(event):
             )
         else:
             start_msg = f"Hey! 👤{mention},\
-                        \nI am {my_mention}'s assistant bot.\
-                        \nYou can contact to my master from here.\
-                        \n\nPowered by [Catuserbot](https://t.me/catuserbot)"
+                        \nI am {my_mention}'s 𝐉𝐢𝐭𝐡𝐚𝐠𝐚𝐝𝐧𝐢.\
+                        \n𝐬𝐞𝐩𝐩𝐮 𝐝𝐚.\
+                        \n\n [𝐢𝐚𝐦 𝐠𝐫𝐨𝐨𝐭 🌱](https://t.me/mynameisgroot)"
         buttons = [
             (
-                Button.url("Repo", "https://github.com/TgCatUB/catuserbot"),
+                Button.url("𝐋𝐨𝐯𝐞𝐫", "https://t.me/elsa_network"),
                 Button.url(
-                    "Deploy",
-                    "https://github.com/TgCatUB/nekopack",
+                    "𝐂𝐨𝐯𝐞𝐫",
+                    "https://t.me/telugulittleworld",
                 ),
             )
         ]
